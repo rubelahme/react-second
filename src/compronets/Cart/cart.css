@@ -1,0 +1,14 @@
+.linked .borderis {
+  border-bottom: 5px solid greenyellow;
+  padding-bottom: 15px;
+}
+.card {
+  text-align: center;
+  background-color: yellowgreen;
+  padding: 15px;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+.linked {
+  text-align: center;
+}

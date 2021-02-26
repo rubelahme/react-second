@@ -1,0 +1,35 @@
+.product {
+  margin-top: 10px;
+  display: flex;
+  border-bottom: 1px solid sienna;
+  padding-bottom: 20px;
+  margin-left: 100px;
+}
+.product-img {
+  width: 40%;
+  text-align: end;
+  margin-right: 15px;
+}
+.product-saidBer {
+  width: 60%;
+  margin-right: 10px;
+}
+.product-saidBer h4 {
+  color: peru;
+  font-weight: 400;
+}
+.product-saidBer p small span {
+  color: red;
+  font-weight: 700;
+}
+.button-add {
+  width: 150px;
+  height: 30px;
+  background-color: yellowgreen;
+  border: 1px solid lightgreen;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.button-add:hover {
+  color: aliceblue;
+}
